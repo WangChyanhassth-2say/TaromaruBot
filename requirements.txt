@@ -1,0 +1,7 @@
+nonebot2
+nonebot-adapters-cqhttp
+selenium
+matplotlib
+numpy
+pillow
+requests
