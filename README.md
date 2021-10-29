@@ -1,2 +1,2 @@
-# TaromaruBot
+# 太郎丸Bot/TaromaruBot
 基于 go-cqhttp 与 nonebot2 的原神QQbot
