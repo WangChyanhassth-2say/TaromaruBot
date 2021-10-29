@@ -1,5 +1,5 @@
 nonebot2
-nonebot-adapters-cqhttp
+nonebot-adapter-cqhttp
 selenium
 matplotlib
 numpy
