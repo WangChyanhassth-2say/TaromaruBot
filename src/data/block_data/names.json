@@ -1,0 +1,10 @@
+{
+    "poke_list": [
+        "angrytaro.png",
+        "tinytaro.png"
+    ],
+    "block_repeat_list": [
+        "angrytaro.png",
+        "bigtaro.png"
+    ]
+}
